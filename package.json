@@ -1,0 +1,30 @@
+{
+  "name": "shift-happens-next",
+  "version": "1.0.0",
+  "description": "shift-happens Yoga",
+  "private": true,
+  "author": "Christof Bauer",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-brands-svg-icons": "^5.15.2",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "autoprefixer": "^10.0.4",
+    "axios": "^0.21.1",
+    "mongodb": "^3.6.3",
+    "next": "latest",
+    "next-auth": "^3.4.1",
+    "next-seo": "^4.19.0",
+    "postcss": "^8.1.10",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sharp": "^0.26.3",
+    "tailwindcss": "^2.0.2"
+  }
+}
